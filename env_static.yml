@@ -140,6 +140,7 @@ dependencies:
   - wincertstore=0.2=py37_1002
   - winpty=0.4.3=4
   - wrapt=1.11.1=py37hfa6e2cd_0
+  - xlrd=1.2.0=py_0
   - zeromq=4.2.5=he025d50_1006
   - zlib=1.2.11=h2fa13f4_1004
 
